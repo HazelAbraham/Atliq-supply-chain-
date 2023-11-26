@@ -17,4 +17,3 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 - All the Key Metrics (OT%, IF%, OTIF%) are far behind the target 
 - There is no noticeable improvements in any of the key metrics in the last few months
-- There is a huge gap in IF% for most of the customers. Is it because of less production?
