@@ -40,9 +40,6 @@ The Supply Chain team decided to use a standard approach to measure the service 
 * Lotus Mart has placed the highest number of orders while OTIF % is only 16.34% and Ontime delivery % is 28.11% which need to be looked upon, and the orders 
   sent to them are 53.35% Full. The average delayed deviliary date for the Lotus Mart is 1.82 days which is the most compared to the other customers.
 * Lotus Mart and Acclaimed stores are receiving the the deliveries late compared to all the other customers which has to be looked upon.
-Ghee, curd and butter products are most delayed to deliver.
-
-
 
 
 
