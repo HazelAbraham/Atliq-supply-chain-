@@ -23,9 +23,10 @@ The Supply Chain team decided to use a standard approach to measure the service 
 </p>
 
 ## Some Major Insights 
-1.   <p align="center">
-      <img src="Target variables.png" height="200">
-    </p>
+
+<p align="center">
+  <img src="Target variables.png" height="300">
+</p>
 
 * The On-Time Delivery % & In-Full Delivery % are about 30% behind the target % and the trend in all the months is approximately
    same and the On Time & In Full Delivery percentage is about 35% less than the target.
