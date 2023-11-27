@@ -25,7 +25,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Some Major Insights 
 
 <p align="center">
-  <img src="Target variables.png" height="300">
+  <img src="Target variables.png" height="250">
 </p>
 
 * The On-Time Delivery % & In-Full Delivery % are about 30% behind the target % and the trend in all the months is approximately
@@ -33,9 +33,36 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 
 
-2.       <p align="center">
-      <img src="Customer Analysis.png" height="200">
-    </p>
+ <p align="center">
+  <img src="Customer Analysis.png" height="250">
+</p>  
 
 * Lotus Mart has placed the highest number of orders while OTIF % is only 16.34% and Ontime delivery % is 28.11% which need to be looked upon, and the orders 
-  sent to them are 53.35% Full. The average delayed deviliary date for the Lotus Mart is 1.82 days which is the most compared to the other customers
+  sent to them are 53.35% Full. The average delayed deviliary date for the Lotus Mart is 1.82 days which is the most compared to the other customers.
+* Lotus Mart and Acclaimed stores are receiving the the deliveries late compared to all the other customers which has to be looked upon.
+Ghee, curd and butter products are most delayed to deliver.
+
+
+
+
+
+ <p align="center">
+  <img src="Most delayed Product Name.png" height="250">
+</p>  
+
+* 	Diary is the most valuable product Category followed by Food and Beverages. Ghee, curd and butter products are most delayed to customers.
+
+
+
+
+ <p align="center">
+  <img src="Delayed order metrics.png" height="250">
+</p> 
+
+* Out of 32K orders 13K orders are delayed ie. 41%  and 47.2%  orders are not deleiverd fully .
+
+1.  There is no Noticeable improvements in any of the KPIs in the past months. 
+2. The service should be improved in order to retain the customers.
+
+
+  
