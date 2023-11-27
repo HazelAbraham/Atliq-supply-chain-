@@ -22,9 +22,19 @@ The Supply Chain team decided to use a standard approach to measure the service 
   <img src="Data model .png" height="400">
 </p>
 
-
-
 ## Some Major Insights 
+1.   <p align="center">
+      <img src="Target variables.png" height="200">
+    </p>
 
-- All the Key Metrics (OT%, IF%, OTIF%) are far behind the target 
-- There is no noticeable improvements in any of the key metrics in the last few months
+* The On-Time Delivery % & In-Full Delivery % are about 30% behind the target % and the trend in all the months is approximately
+   same and the On Time & In Full Delivery percentage is about 35% less than the target.
+
+
+
+2.       <p align="center">
+      <img src="Customer Analysis.png" height="200">
+    </p>
+
+* Lotus Mart has placed the highest number of orders while OTIF % is only 16.34% and Ontime delivery % is 28.11% which need to be looked upon, and the orders 
+  sent to them are 53.35% Full. The average delayed deviliary date for the Lotus Mart is 1.82 days which is the most compared to the other customers
